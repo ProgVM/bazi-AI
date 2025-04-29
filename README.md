@@ -57,12 +57,13 @@ Contributions are welcome! Please see the contributing guidelines [link to contr
 
 License:
 
-[Specify license, e.g., MIT License]
+PROGVM
 
 
 Contact:
 
-[Contact information]
+progvminc@gmail.com
+tg: @pahabobyr, @mcpeorakul
 
 
 This README will be updated as the project progresses.
